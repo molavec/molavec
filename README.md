@@ -3,9 +3,7 @@
 
 <br />
 
- <p style="text-align: center">
-  <a href="https://molavec-95ef0.web.app"> <button style="background-color: red; padding: 10px 12px;"> Check my portfolio here! </button> </a>
- </p>
+<p align="center"> <a href="https://twitter.com/molavec" target="blank"><img src="https://molavec-95ef0.web.app/queonda.jpg" alt="molavec" /></a> </p>
 
 <br />
 
