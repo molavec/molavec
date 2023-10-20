@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Miguel Olave</h1>
 <h3 align="center">A passionate Javascript Fullstack developer & UX-PM from Chile</h3>
 
+<br />
+
 - 🔭 I’m currently working on [Queonda.ART](https://queonda.art)
 
 - 🌱 I’m currently learning **Vue.js and more frontend skills**
