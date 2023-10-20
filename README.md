@@ -32,7 +32,7 @@
 <a href="https://codepen.io/molavec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="molavec" height="30" width="40" /></a>
 <a href="https://twitter.com/molavec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="molavec" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/molavec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="molavec" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/molavec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="molavec" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/1278487/molavec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="molavec" height="30" width="40" /></a>
 </p>
 
 <br />
