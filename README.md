@@ -3,7 +3,7 @@
 
 <br />
 
-<p align="center"> <a href="https://twitter.com/molavec" target="blank"><img src="https://molavec-95ef0.web.app/queonda.jpg" alt="molavec" /></a> </p>
+<p align="center"> <a href="https://twitter.com/molavec" target="blank"><img src="https://github.com/molavec/molavec/blob/main/cta_portfolio.png?raw=true" alt="molavec" /></a> </p>
 
 <br />
 
